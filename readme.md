@@ -16,13 +16,13 @@ syntax
 conversions appear in the ./done/ directory and are time-stamped
 
 tested on ubuntu, required these packages.
-
+```bash
   sudo del-apt-repository universe
   sudo apt-get update
   sudo apt-get upgrade
   sudo apt install ffmpeg
   sudo apt install imagemagick
-
+```
 
 
 license:
