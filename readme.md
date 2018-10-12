@@ -15,5 +15,15 @@ syntax
 
 conversions appear in the ./done/ directory and are time-stamped
 
+tested on ubuntu, required these packages.
+
+  sudo del-apt-repository universe
+  sudo apt-get update
+  sudo apt-get upgrade
+  sudo apt install ffmpeg
+  sudo apt install imagemagick
+
+
+
 license:
 just be nice and say you used/modified the script from my repo, if you do then you're free to use it.
