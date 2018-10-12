@@ -28,3 +28,4 @@ tested on ubuntu, required these packages.
 
 license:
 just be nice and say you used/modified the script from my repo, if you do then you're free to use it.
+possible due to this info: http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html
