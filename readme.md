@@ -11,8 +11,9 @@ if dirs do not exist it tries to create theme
 
 syntax
 
+```bash
 # ./gif2bpp.sh [frames per second] [delay in 100ths of seconds] [url of video to download]
-
+```
 conversions appear in the ./done/ directory and are time-stamped
 
 tested on ubuntu, required these packages.
