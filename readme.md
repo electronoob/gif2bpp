@@ -3,7 +3,7 @@ this file clobbers the following directories
 ./work/
 ./source/
 
-if dirs do not exist it tries to create theme
+if dirs do not exist it tries to create them
 
 ./done/
 ./work/
