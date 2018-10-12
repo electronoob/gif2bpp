@@ -14,8 +14,6 @@ if dirs do not exist it tries to create them
 
 
 
-syntax
-
 ```bash
 # ./gif2bpp.sh [frames per second] [delay in 100ths of seconds] [url of video to download]
 ```
